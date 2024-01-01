@@ -1,0 +1,11 @@
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\bin\Debug\net7.0\EasyReading.Domain.deps.json
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\bin\Debug\net7.0\EasyReading.Domain.dll
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\bin\Debug\net7.0\EasyReading.Domain.pdb
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\obj\Debug\net7.0\EasyReading.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\obj\Debug\net7.0\EasyReading.Domain.AssemblyInfoInputs.cache
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\obj\Debug\net7.0\EasyReading.Domain.AssemblyInfo.cs
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\obj\Debug\net7.0\EasyReading.Domain.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\obj\Debug\net7.0\EasyReading.Domain.dll
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\obj\Debug\net7.0\refint\EasyReading.Domain.dll
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\obj\Debug\net7.0\EasyReading.Domain.pdb
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\obj\Debug\net7.0\ref\EasyReading.Domain.dll

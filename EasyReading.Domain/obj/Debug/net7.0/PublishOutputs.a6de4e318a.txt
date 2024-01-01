@@ -1,0 +1,3 @@
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\bin\Debug\net7.0\publish\EasyReading.Domain.dll
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\bin\Debug\net7.0\publish\EasyReading.Domain.deps.json
+D:\Programming\Projects\Web\EasyReading\EasyReading.Domain\bin\Debug\net7.0\publish\EasyReading.Domain.pdb

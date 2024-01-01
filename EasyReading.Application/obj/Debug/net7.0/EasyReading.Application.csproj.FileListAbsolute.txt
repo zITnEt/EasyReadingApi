@@ -1,0 +1,15 @@
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\bin\Debug\net7.0\EasyReading.Application.deps.json
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\bin\Debug\net7.0\EasyReading.Application.dll
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\bin\Debug\net7.0\EasyReading.Application.pdb
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\obj\Debug\net7.0\EasyReading.Application.csproj.AssemblyReference.cache
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\obj\Debug\net7.0\EasyReading.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\obj\Debug\net7.0\EasyReading.Application.AssemblyInfoInputs.cache
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\obj\Debug\net7.0\EasyReading.Application.AssemblyInfo.cs
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\obj\Debug\net7.0\EasyReading.Application.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\obj\Debug\net7.0\EasyReading.Application.dll
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\obj\Debug\net7.0\refint\EasyReading.Application.dll
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\obj\Debug\net7.0\EasyReading.Application.pdb
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\obj\Debug\net7.0\ref\EasyReading.Application.dll
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\bin\Debug\net7.0\EasyReading.Domain.dll
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\bin\Debug\net7.0\EasyReading.Domain.pdb
+D:\Programming\Projects\Web\EasyReading\EasyReading.Application\obj\Debug\net7.0\EasyReading.Application.csproj.CopyComplete
